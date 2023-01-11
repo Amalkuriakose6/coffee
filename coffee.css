@@ -1,0 +1,138 @@
+.title{
+    background-image: url('./image/coffee/Coffee\ Beans\ by\ Siede\ Preis.jpg');height: 300px;
+   
+}
+body{
+    background-image: url('https://th.bing.com/th/id/R.6e7171bdef5c53bdeccc4b0462eb8e5a?rik=BX2pOuOuI3NA2g&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fAww6cC4.jpg&ehk=TqCDxe9Zt%2bp3rYPmZ6EDEIAuBk%2bC2RfpXERANj4tUVM%3d&risl=&pid=ImgRaw&r=0');height: 600px;
+    margin: 0;
+}
+
+
+
+.nav{
+   
+   
+    color: #f3f3f3;
+  
+  
+   
+   
+    
+    
+    
+}
+.nav:hover{
+color: #000000;
+    
+}
+.title>h1{
+       font-size: 60px;
+    color: #f3f3f3;
+   padding-top: 200px;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 10px;
+}
+.title>h3{
+       
+    color: #f3f3f3;
+font-size: 30px;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 10px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+    border-radius: 15px 15px 15px 15px;
+    margin: 25px;
+    
+   
+    
+}
+img:hover{
+    transform: scale(1.1);
+}
+.cap>h3{
+    color: #f3f3f3;
+    margin: 5px;
+    padding-left: 10px;
+    
+    
+    
+}
+.cap{
+   border:#f3f3f3 ;
+    align-items:center;
+   display:inline-block;
+   color: #f3f3f3;
+   padding: -10px;
+}
+p{color: #f3f3f3;
+
+}
+
+.nav-bar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 500px;
+    
+    color: #f3f3f3;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+.menu li a{
+    text-decoration: none;
+    color: #f3f3f3;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.p{
+   width: 10px;
+   color: #f3f3f3;
+   text-align: center;
+    
+   
+}
+h4{
+    color: #f3f3f3;
+    padding-left: 5px;
+}
+h4:hover{
+    color: #e40303;
+}
+
+button{
+    background-color: black;
+    color: #f3f3f3;
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+.head{
+    color: #f3f3f3;
+    text-align: center;
+    font-size: 50px;
+    padding: 200px;
+
+}
+
+.iframe{
+    
+    margin: 10px;
+}
+.h5{
+    color: #f3f3f3;
+    margin: 20px;
+}
+.log{
+    color: #f3f3f3;
+    text-align: end;
+    padding-right: 100px;
+}
